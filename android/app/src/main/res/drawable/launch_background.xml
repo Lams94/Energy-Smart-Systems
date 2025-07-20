@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Splash screen ESS avec logo et couleurs officielles -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Fond noir ESS #0A0A0A -->
+    <item android:drawable="@color/ess_background" />
+    
+    <!-- Logo ESS centré -->
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@drawable/splash_logo"
+            android:tileMode="disabled" />
+    </item>
+</layer-list>

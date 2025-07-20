@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Couleurs Energy Smart Systems pour splash screen -->
+    <color name="ess_background">#0A0A0A</color>
+    <color name="ess_primary">#3ADF7C</color>
+    <color name="ess_secondary">#00B8D9</color>
+    <color name="ess_surface">#1A1A1A</color>
+    <color name="ess_text_primary">#FFFFFF</color>
+    <color name="ess_text_secondary">#B0B0B0</color>
+</resources>
